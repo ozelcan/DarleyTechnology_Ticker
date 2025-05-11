@@ -54,3 +54,9 @@ Alternative optimizations (not implemented here) may include:
 ### Release Mode (optimized):
 ```bash
 g++ -O3 -DNDEBUG -std=c++17 -o parse_tickers main.cpp
+```
+
+Screenshot of the local runs including timing:
+![Screenshot from 2025-05-11 17-31-14](https://github.com/user-attachments/assets/979c7467-7d3e-428c-8b1f-4f69d2bb806c)
+
+
